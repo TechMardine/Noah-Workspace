@@ -59,3 +59,69 @@ A aplicação estará disponível em `http://localhost:3000`.
 ---
 
 Sinta-se à vontade para sugerir melhorias e adaptar este projeto para atender às necessidades da sua empresa!
+
+---
+
+# Customizable Platform for B2B Tools
+
+## Overview
+
+This project originated from hands-on experience in environments where the company's focus wasn’t software development, but service delivery. In such cases, one of the smartest investments is creating internal and external tools to define and map processes, increase team productivity, and resolve specific gaps in a centralized way.
+
+The goal of this project is to provide a customizable platform for businesses, allowing them to focus on improving their operations without worrying about platform-specific technical issues. We offer a solid, flexible base with key B2B tools readily available. If you need something more specific, simply add it with a fork!
+
+With this project, companies gain a reliable platform with essential tools ready to use, plus the flexibility to adapt the platform as needed, saving valuable development time for tech teams.
+
+## Technologies Used
+
+This project leverages the following technologies:
+
+- **Node.js** and **Nest.js** for the backend: A robust structure for scalable APIs and simplified maintenance.
+- **OpenAI**: For features that involve artificial intelligence.
+- **Next.js**: A React framework for dynamic web applications.
+- **Shadcn-UI**: A UI component library for a modern and customizable interface.
+- **Tailwind CSS**: Quick and efficient styling.
+- **... and more**: Additional modern technologies for efficient development.
+
+## Key Features
+
+- **Complete Customization**: Adapt the platform with a simple fork to include the tools you need.
+- **Integrated B2B Tools**: Includes integrations with key productivity and management tools in the market.
+- **Open Source and Easy to Maintain**: Access and modify all code to meet your specific needs.
+- **Reliability and Optimization**: A solid foundation so you don’t have to worry about platform bugs and can focus on your business.
+
+## How to Contribute
+
+Want to contribute to this project? Feel free to help improve it! Here are some guidelines to get started:
+
+1. **Fork** the repository.
+2. Create a new branch for your feature or fix: `git checkout -b my-new-feature`.
+3. Make your changes and add commits: `git commit -m 'Add new feature'`.
+4. Push the branch to your forked repository: `git push origin my-new-feature`.
+5. Open a Pull Request with a detailed explanation of your changes.
+
+To maintain project quality, here are some **contribution rules**:
+- Follow the code standards and naming conventions.
+- Keep commits organized and with clear messages.
+- Document your changes when necessary.
+- Review your code before submitting the PR to ensure it meets project standards.
+
+## Installation and Running
+
+To install and run the project locally:
+
+1. Clone the repository
+2. Navigate to the project directory: `cd noah-workspace`
+3. Install dependencies: `npm install`
+4. Configure the required environment variables.
+5. Start the server: `npm run dev`
+
+The application will be available at `http://localhost:3000`.
+
+## License
+
+This project is licensed under the **MIT License**. See the `LICENSE` file for more information.
+
+---
+
+Feel free to suggest improvements and adapt this project to suit your company’s needs!
