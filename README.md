@@ -1,5 +1,8 @@
 # Noah-Workspace
 
+![DALL·E 2024-11-11 23 12 52 - A professional and modern illustration representing a customizable B2B platform for service-based companies  The image should feature interconnected t](https://github.com/user-attachments/assets/0c180462-5ea5-409a-b5a8-448f9443b29e)
+
+
 # Projeto Workspace Whitelabel B2B
 
 ## Visão Geral
